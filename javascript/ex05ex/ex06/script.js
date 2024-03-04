@@ -10,7 +10,7 @@
         } else {
             var fsex = document.querySelector("input[name='radsex']:checked").value;
             var idade = ano - Number(txtano.value)
-            
+             
     
        
         }
